@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">json_pr_31_Evsyukov</string>
+    <string name="for_btnProcess">Выполнить сериализацию и десериализацию</string>
+    <string name="for_etTags">Теги (через запятую)</string>
+    <string name="for_etPrice">Цена товара</string>
+    <string name="for_etName">Название товара</string>
+</resources>
